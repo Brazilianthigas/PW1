@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+</head>
+<body style="background-color:#00BFFF;color:#FF1493;font-family: Arial;font-size:24px">
+    <h1 style="color:#4B0082">Exemplo Tabela</h1>
+    <!-- <Inicio da tabela> -->
+    <table 
+    width="25%" 
+    border="2px" 
+    style="background-color: rgb(136, 202, 240);"> 
+        
+        <tr style=" background-color: chocolate;"><!-- Inicio da linha -->
+            <th>Leviatán</th>
+            <th>Foto</th>
+            <th>Monstros Marinhos</th>
+        </tr><!--  Final da linha -->
+           <tr> <!-- Inicio da linha  -->
+            <td>Leviatán</td>
+            <td><img src="Leviatán-2.jpg" alt="Leviatán" width="250px" height="250px"></td>
+            <td><a href="https://www.nauticalnewstoday.com/monstruos-marinos-leyenda-leviatan/"> Leviatán </a></td>
+        </tr><!-- Final da linha -->
+   </table> <!-- Final da tabela -->
+</body>
+</html>
